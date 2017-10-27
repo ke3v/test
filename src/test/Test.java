@@ -16,8 +16,7 @@ public class Test {
      */
     public static void main(String[] args) {
         System.out.println("hi there");
-        System.out.println("Heya Kevin");
-        //new Stuff
+        //new sdlfjasldfja efow
     }
     
 }
