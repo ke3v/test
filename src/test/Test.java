@@ -32,7 +32,14 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hi there");
         System.out.println("heya kevin");
-        //Hello kevin my name is jack, how are you doing?
+//nvhkdbavlfbvkfldsblbgwnbsb
+
+
+//Bevin is a nerd
+//And Brody is a nerd        
+        
+        
+        
         //new sdlfjasldfja efow
         //Hello Kevin and Bryan
     }
